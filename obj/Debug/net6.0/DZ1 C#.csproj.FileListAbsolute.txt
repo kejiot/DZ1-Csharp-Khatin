@@ -1,0 +1,15 @@
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\bin\Debug\net6.0\DZ1 C#.exe
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\bin\Debug\net6.0\DZ1 C#.deps.json
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\bin\Debug\net6.0\DZ1 C#.runtimeconfig.json
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\bin\Debug\net6.0\DZ1 C#.dll
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\bin\Debug\net6.0\DZ1 C#.pdb
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.csproj.AssemblyReference.cache
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.AssemblyInfoInputs.cache
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.AssemblyInfo.cs
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.csproj.CoreCompileInputs.cache
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.dll
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\refint\DZ1 C#.dll
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.pdb
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\DZ1 C#.genruntimeconfig.cache
+C:\Users\Марк\OneDrive\Рабочий стол\Учеба\Учеба новое C# DZ\DZ1 C#\obj\Debug\net6.0\ref\DZ1 C#.dll
